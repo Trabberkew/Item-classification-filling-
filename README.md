@@ -1,2 +1,8 @@
-# Item-classification-filling-
-可以根据模板分类填充指定必须项的物品
+# Item-classification-filling（物品分类填充）
+
+根据预设模板，快速向容器填充指定物品，
+这是 Inventory Profiles Next（IPN）的分支模组，可与 IPN 同时使用
+Quickly fill containers with items according to preset templates, 
+This is a fork of Inventory Profiles Next (IPN), and can be used alongside IPN.
+
+Minecraft Java 1.21.11 Fabric 0.19.5
